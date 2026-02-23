@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @archee565
 - 👀 I’m interested in physics simulation, GPU rendering, games programming in Rust,(C++),shader languages
 - 🌱 I’m currently learning --- Rust
-- 💞️ I’m looking to collaborate on Linux.
+- 💞️ I’m looking to collaborate on 3D engines, Rust crates.
 - 📫 Feel free to reach me through GitHub messages.
 
 <!---
